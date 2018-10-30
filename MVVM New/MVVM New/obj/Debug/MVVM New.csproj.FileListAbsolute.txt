@@ -1,0 +1,15 @@
+C:\Users\EE210720\Desktop\WPF\MVVM New\MVVM New\bin\Debug\MVVM New.exe.config
+C:\Users\EE210720\Desktop\WPF\MVVM New\MVVM New\obj\Debug\MVVM New.csprojResolveAssemblyReference.cache
+C:\Users\EE210720\Desktop\WPF\MVVM New\MVVM New\obj\Debug\View\MainWindow.g.cs
+C:\Users\EE210720\Desktop\WPF\MVVM New\MVVM New\obj\Debug\App.g.cs
+C:\Users\EE210720\Desktop\WPF\MVVM New\MVVM New\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\EE210720\Desktop\WPF\MVVM New\MVVM New\obj\Debug\MVVM New_MarkupCompile.cache
+C:\Users\EE210720\Desktop\WPF\MVVM New\MVVM New\obj\Debug\MVVM New_MarkupCompile.lref
+C:\Users\EE210720\Desktop\WPF\MVVM New\MVVM New\obj\Debug\MVVM New.exe
+C:\Users\EE210720\Desktop\WPF\MVVM New\MVVM New\obj\Debug\MVVM New.pdb
+C:\Users\EE210720\Desktop\WPF\MVVM New\MVVM New\bin\Debug\MVVM New.exe
+C:\Users\EE210720\Desktop\WPF\MVVM New\MVVM New\bin\Debug\MVVM New.pdb
+C:\Users\EE210720\Desktop\WPF\MVVM New\MVVM New\obj\Debug\View\MainWindow.baml
+C:\Users\EE210720\Desktop\WPF\MVVM New\MVVM New\obj\Debug\MVVM New.g.resources
+C:\Users\EE210720\Desktop\WPF\MVVM New\MVVM New\obj\Debug\MVVM_New.Properties.Resources.resources
+C:\Users\EE210720\Desktop\WPF\MVVM New\MVVM New\obj\Debug\MVVM New.csproj.GenerateResource.Cache

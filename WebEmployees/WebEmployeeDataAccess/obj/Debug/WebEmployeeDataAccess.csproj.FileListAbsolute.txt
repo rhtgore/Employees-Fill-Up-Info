@@ -1,0 +1,10 @@
+C:\Users\EE210720\Desktop\WebEmployees\WebEmployeeDataAccess\bin\Debug\WebEmployeeDataAccess.dll.config
+C:\Users\EE210720\Desktop\WebEmployees\WebEmployeeDataAccess\bin\Debug\WebEmployeeDataAccess.dll
+C:\Users\EE210720\Desktop\WebEmployees\WebEmployeeDataAccess\bin\Debug\WebEmployeeDataAccess.pdb
+C:\Users\EE210720\Desktop\WebEmployees\WebEmployeeDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\EE210720\Desktop\WebEmployees\WebEmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EE210720\Desktop\WebEmployees\WebEmployeeDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\EE210720\Desktop\WebEmployees\WebEmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EE210720\Desktop\WebEmployees\WebEmployeeDataAccess\obj\Debug\WebEmployeeDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\EE210720\Desktop\WebEmployees\WebEmployeeDataAccess\obj\Debug\WebEmployeeDataAccess.dll
+C:\Users\EE210720\Desktop\WebEmployees\WebEmployeeDataAccess\obj\Debug\WebEmployeeDataAccess.pdb
